@@ -13,26 +13,26 @@ How best to contact me:
 kb.
 ```
 
-My OpenPGP key cert can be found below. In order to exclude the possibility of MITM attacks, you are encouraged to verify the fingerprint of my key before use. This can be done by looking on the back of my biz card. This website should not be trusted for key verification.
+My OpenPGP key can be found below & [here](https://github.com/roelds/roelds.github.io/raw/main/rds-pw_30cfd5efeeaa9e72_public.asc). To mitigate against MITM attacks, please verify the fingerprint of my key before use. This can be done by looking on the back of my biz card. The front of my biz cards also have qr code of sha3-224 hash checksum, that matches comment in key. This website should not be trusted for key verification.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-mDMEZOgk1RYJKwYBBAHaRw8BAQdApyjQzf0LtAYCc3V8XiIfNcyyEZMXIqczjY8C
-+PZd77y0D3JkcyA8aGlAcmRzLnB3PoicBBMWCgBEAhsjBQkB4ey7BQsJCAcCAiIC
-BhUKCQgLAgQWAgMBAh4HAheAFiEE9ZflsFkAW5MjIkY1vA+Bg9K1++wFAmTpD6kC
-GQEACgkQvA+Bg9K1++yb+gD/VtpoVuoK3yth6fHH1Zoo1Vh8nfGsqMmNKdM5hrbK
-3/MBAK6ClUeF6APMIngjDJvCOBkssKlFexjHPrynmFkLvkIMtDlyZHMtcHcgPGNl
-YjhmNzFhLTBkMjMtNDJjZC1hODZkLTkzYWJmN2E3OGVmMEBhbm9uYWRkeS5tZT6I
-mQQTFgoAQRYhBPWX5bBZAFuTIyJGNbwPgYPStfvsBQJk6Q+eAhsjBQkB4ey7BQsJ
-CAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJELwPgYPStfvsVdUBAM6MbOGR77jM
-AU4dlo13SUnFmDEAS894A/xmd42xSqcEAPsEwTh3G+f3cfT0fSQ6USS09tFnrAoH
-sDXZWWr1BSNkB7g4BGToJNUSCisGAQQBl1UBBQEBB0CSQ19VfksMIqqPTQ4bKuXZ
-8cEWU8O3pTKh92TluPljSQMBCAeIfgQYFgoAJhYhBPWX5bBZAFuTIyJGNbwPgYPS
-tfvsBQJk6CTVAhsMBQkB4ey7AAoJELwPgYPStfvs0moA/RWKp5x4T5jcAxLNz/4N
-RZpjXQRUx9dwbrq/VPDrnR8pAPsHCl6RD/cnuCEv07Yp2glN0qHkrHp2g6HCpUSF
-bDJPAA==
-=nG8/
+mDMEZOlziBYJKwYBBAHaRw8BAQdA6rMZZG3NHDetMQSQK4uBgAX+7UmljKcOWOYh
+Eo1ESam0VXJkcy1wdyAoc2hhMzIyNDplNTc1NGJjNmJiYTBkN2JjM2M0ODk1NTg0
+NWE1MjM0MzdmMGIzNjBkNWY5ZDJiNjUxYTg3YTFkNCkgPGhpQHJkcy5wdz6ImQQT
+FgoAQRYhBKaIIYk/aB59Zs9PnzDP1e/uqp5yBQJk6XOIAhsDBQkFo5qABQsJCAcC
+AiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEDDP1e/uqp5y4xIA/3BVFbRyqRhhPQM6
+3KGxK6ZmC8b3mW9IG6cBifKtvWs5AQDeRW2WIsuhfx5mdkpGuEvQ1F6HfOxAxcgD
+T+cIFpnWAbg4BGTpc4gSCisGAQQBl1UBBQEBB0BuoSB9RV4bmlUoIb/MJpeOCnQS
+HmOyyCu1wg/u1xaJVAMBCAeIfgQYFgoAJhYhBKaIIYk/aB59Zs9PnzDP1e/uqp5y
+BQJk6XOIAhsMBQkFo5qAAAoJEDDP1e/uqp5yxtMA/RN5VCk4kzMqh64M9xG+YyU0
+hneUvVUpv/wwA2wrYxvTAP99sYc2+ieHlpWdX5EY8PW4VFehOD1sV4KdthUbuE/1
+D7gzBGTpdL0WCSsGAQQB2kcPAQEHQDrz8Lbkw9ierJZgHGXJ+Uj+3O6mpIgzDJNi
+KwywvQsSiH4EGBYKACYWIQSmiCGJP2gefWbPT58wz9Xv7qqecgUCZOl0vQIbIAUJ
+BaOagAAKCRAwz9Xv7qqecvUlAQC5dsNvgUBP0GVn6Ds5JGY1j4DbSiiZhHF0kDE0
+tL5seQEAq0SJNCLFJ/cn1VCnvVjK8BR3KE4HnrmnHYrMaKD5aQ0=
+=RIS5
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
