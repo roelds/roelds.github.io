@@ -13,7 +13,7 @@ How best to contact me:
 kb.
 ```
 
-My GnuPG PGP key can be found below, & [here](https://github.com/roelds/roelds.github.io/raw/main/rds-pw_public.asc). To mitigate against MITM attacks, please verify the fingerprint of my key before use. This can be done by looking on the back of my biz card, or ask me via DM on KB. The front of my biz cards also have QR code of an ID, that matches comment in key. This website should not be trusted for key verification.
+My GnuPG PGP key can be found below, & [here](https://githubraw.com/roelds/roelds.github.io/main/rds-pw_public.asc). To mitigate against MITM attacks, please verify the fingerprint of my key before use. This can be done by looking on the back of my biz card, or ask me via DM on KB. The front of my biz cards also have QR code of an ID, that matches comment in key. This website should not be trusted for key verification.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
