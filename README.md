@@ -48,6 +48,7 @@ If you're interested in a non-boilerplate, non AI generated response...ask me in
 
 (Besides the links on my github acct & my certs that can be found at me.)
 Here are some links proving & providing example evidence of my prominent excellence:
+[Assessment0](https://github.com/roelds/roelds.github.io/blob/35af15b2a976aff631d63731c52d4a2976f830d9/My%20PIBA%20Person%20Snapshot.pdf)
 [Assessment1](https://github.com/roelds/roelds.github.io/blob/8bdb09e2e7dfbb636d0878cea06722a08d4e8dfe/PI%20Behavioral%20Assessment_My%20Person%20Snapshot.pdf)
 [Assessment2](https://github.com/roelds/roelds.github.io/blob/8bdb09e2e7dfbb636d0878cea06722a08d4e8dfe/Infor_Behavioral%20DNA_My-feedbackReport.pdf)
 [Assessment3](https://github.com/roelds/roelds.github.io/blob/8bdb09e2e7dfbb636d0878cea06722a08d4e8dfe/Desktop_Support-My%20Test%20Result%2098600245.pdf)
